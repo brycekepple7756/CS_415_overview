@@ -1,0 +1,19 @@
+name of the user file      > user_tx_25.csv
+name of the purchase file  > purchase_tx_25.csv
+name of the shipment file  > shipment_tx_25.csv
+account: awedAbalone6 fraud incidents: 1 fraud total cost: $546.48
+account: mildCod2 fraud incidents: 1 fraud total cost: $630.05
+
+
+
+
+individual fraud triples
+------------------------
+UserTx     :  timestamp: 2023-10-13 00:30:24  cc: 9135691437021982  market_account: awedAbalone6         product_desc: tie-blue-kipper-large     cost:    $430.00 shipping_address: 714 East 33rd Street, , Savann cc_billing_address: 98 Lee Drive, , Annapolis MD,  product_purchase_number:                                     
+PurchaseTx :  timestamp: 2023-10-13 00:31:09  cc: 3916675405134337  market_account:                      product_desc: tie-blue-kipper-large     cost:    $546.48 shipping_address:                                cc_billing_address: 7106 Bear Creek Drive, #B3, Sa product_purchase_number: dfd968bb-d0c5-455d-a279-2cfaaf837e66
+ShipmentTx :  timestamp: 2023-10-13 15:13:29  cc:                   market_account:                      product_desc:                           cost:            shipping_address: 714 East 33rd Street, , Savann cc_billing_address:                                product_purchase_number: dfd968bb-d0c5-455d-a279-2cfaaf837e66
+
+UserTx     :  timestamp: 2023-10-23 10:42:45  cc: 2388023776972642  market_account: mildCod2             product_desc: sock-blue-xlarge          cost:    $501.00 shipping_address: 425 Buckhalter Road, , Savanna cc_billing_address: 235 Hugh Thomas Drive, , Panam product_purchase_number:                                     
+PurchaseTx :  timestamp: 2023-10-23 10:43:48  cc: 9275135332534013  market_account:                      product_desc: sock-blue-xlarge          cost:    $630.05 shipping_address:                                cc_billing_address: 1311 Northwest 98th Street, ,  product_purchase_number: 1241d440-54cd-493e-b898-ccb47e1be1d2
+ShipmentTx :  timestamp: 2023-10-24 09:17:31  cc:                   market_account:                      product_desc:                           cost:            shipping_address: 425 Buckhalter Road, , Savanna cc_billing_address:                                product_purchase_number: 1241d440-54cd-493e-b898-ccb47e1be1d2
+

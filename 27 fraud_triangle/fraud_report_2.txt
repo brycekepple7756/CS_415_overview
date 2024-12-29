@@ -1,0 +1,34 @@
+name of the user file      > user_tx_50.csv
+name of the purchase file  > purchase_tx_50.csv
+name of the shipment file  > shipment_tx_50.csv
+account: crummyCoconut6 fraud incidents: 1 fraud total cost: $1,290.48
+account: gleefulCake1 fraud incidents: 1 fraud total cost: $1,003.36
+account: alertGatorade3 fraud incidents: 1 fraud total cost: $256.02
+account: excludedPepper2 fraud incidents: 1 fraud total cost: $164.65
+account: ecstaticFlamingo9 fraud incidents: 1 fraud total cost: $125.20
+
+
+
+
+individual fraud triples
+------------------------
+UserTx     :  timestamp: 2023-10-12 03:35:19  cc: 5056391619851545  market_account: crummyCoconut6       product_desc: coat-pink-small           cost:    $867.00 shipping_address: 3008 Russell Street, #R 1, Ber cc_billing_address: 1700 William E Summers III Ave product_purchase_number:                                     
+PurchaseTx :  timestamp: 2023-10-12 03:35:30  cc: 8563568213984502  market_account:                      product_desc: coat-pink-small           cost:  $1,290.48 shipping_address:                                cc_billing_address: 1537 Northwest 123rd Street, , product_purchase_number: 6438bcdf-74d3-45f2-a953-faea147486a0
+ShipmentTx :  timestamp: 2023-10-12 20:47:41  cc:                   market_account:                      product_desc:                           cost:            shipping_address: 3008 Russell Street, #R 1, Ber cc_billing_address:                                product_purchase_number: 6438bcdf-74d3-45f2-a953-faea147486a0
+
+UserTx     :  timestamp: 2023-10-12 23:00:16  cc: 7933760378216231  market_account: gleefulCake1         product_desc: sock-magenta-xlarge       cost:    $667.00 shipping_address: 1809 Cedar Drive, , Severn MD, cc_billing_address: 529 Barr Hill Road, , Greensbo product_purchase_number:                                     
+PurchaseTx :  timestamp: 2023-10-12 23:01:55  cc: 4529348633551577  market_account:                      product_desc: sock-magenta-xlarge       cost:  $1,003.36 shipping_address:                                cc_billing_address: 13628 West 62nd Drive, , Arvad product_purchase_number: 3a12e6ae-e907-41f3-900f-a877354785c4
+ShipmentTx :  timestamp: 2023-10-13 05:17:08  cc:                   market_account:                      product_desc:                           cost:            shipping_address: 1809 Cedar Drive, , Severn MD, cc_billing_address:                                product_purchase_number: 3a12e6ae-e907-41f3-900f-a877354785c4
+
+UserTx     :  timestamp: 2023-10-20 01:57:34  cc: 2504324887545732  market_account: alertGatorade3       product_desc: bike-specialized-small    cost:    $201.00 shipping_address: 5036 Jericho Street, , Hartfor cc_billing_address: 243 West Haven Drive, , Severn product_purchase_number:                                     
+PurchaseTx :  timestamp: 2023-10-20 01:58:57  cc: 1895726211912253  market_account:                      product_desc: bike-specialized-small    cost:    $256.02 shipping_address:                                cc_billing_address: 814 Miner Road, , Crownsville  product_purchase_number: 5f5e9ed9-7e36-4b7f-807c-a21d320ef6c2
+ShipmentTx :  timestamp: 2023-10-21 01:27:32  cc:                   market_account:                      product_desc:                           cost:            shipping_address: 5036 Jericho Street, , Hartfor cc_billing_address:                                product_purchase_number: 5f5e9ed9-7e36-4b7f-807c-a21d320ef6c2
+
+UserTx     :  timestamp: 2023-10-21 22:29:28  cc: 4705453751287345  market_account: excludedPepper2      product_desc: pants-magenta-small       cost:    $137.00 shipping_address: 34 Free Street, , Hingham MA,  cc_billing_address: 3125 Willow Lane Drive, , Mont product_purchase_number:                                     
+PurchaseTx :  timestamp: 2023-10-21 22:29:47  cc: 2951326549511602  market_account:                      product_desc: pants-magenta-small       cost:    $164.65 shipping_address:                                cc_billing_address: 26 Battery Drive, , Tybee Isla product_purchase_number: 4c15a431-b8b3-40c6-bc7c-6dc080803c6c
+ShipmentTx :  timestamp: 2023-10-22 12:49:57  cc:                   market_account:                      product_desc:                           cost:            shipping_address: 34 Free Street, , Hingham MA,  cc_billing_address:                                product_purchase_number: 4c15a431-b8b3-40c6-bc7c-6dc080803c6c
+
+UserTx     :  timestamp: 2023-10-27 04:48:36  cc: 2856462550609853  market_account: ecstaticFlamingo9    product_desc: scooter-gotrax-xlarge     cost:     $78.00 shipping_address: 424 Callan Avenue, #216, San L cc_billing_address: 645 G Street, #STE 000101, Anc product_purchase_number:                                     
+PurchaseTx :  timestamp: 2023-10-27 04:49:31  cc: 6911348915687154  market_account:                      product_desc: scooter-gotrax-xlarge     cost:    $125.20 shipping_address:                                cc_billing_address: 421 Madison Street Northeast,  product_purchase_number: 4c2f015e-0aff-45a3-9a13-703f7633e9f4
+ShipmentTx :  timestamp: 2023-10-28 00:21:10  cc:                   market_account:                      product_desc:                           cost:            shipping_address: 424 Callan Avenue, #216, San L cc_billing_address:                                product_purchase_number: 4c2f015e-0aff-45a3-9a13-703f7633e9f4
+

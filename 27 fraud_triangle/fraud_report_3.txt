@@ -1,0 +1,44 @@
+name of the user file      > user_tx_75.csv
+name of the purchase file  > purchase_tx_75.csv
+name of the shipment file  > shipment_tx_75.csv
+account: wearyGnu6 fraud incidents: 1 fraud total cost: $370.54
+account: zestySyrup8 fraud incidents: 1 fraud total cost: $354.05
+account: giddySalt6 fraud incidents: 1 fraud total cost: $947.80
+account: murkyFalcon4 fraud incidents: 1 fraud total cost: $1,786.80
+account: offendedHare0 fraud incidents: 1 fraud total cost: $765.46
+account: dopeySardines5 fraud incidents: 1 fraud total cost: $221.06
+account: pridefulPoultry9 fraud incidents: 1 fraud total cost: $669.02
+
+
+
+
+individual fraud triples
+------------------------
+UserTx     :  timestamp: 2023-10-03 05:02:55  cc: 2790874034830586  market_account: wearyGnu6            product_desc: bike-specialized-xlarge   cost:    $193.00 shipping_address: 60 Montgomery Street, #3, Spri cc_billing_address: 545 Tracey Drive, , Panama Cit product_purchase_number:                                     
+PurchaseTx :  timestamp: 2023-10-03 05:03:44  cc: 7498954151354650  market_account:                      product_desc: bike-specialized-xlarge   cost:    $370.54 shipping_address:                                cc_billing_address: 1160 North College Avenue, #2, product_purchase_number: 1b8caae0-0980-44b0-a5df-1f0522b45540
+ShipmentTx :  timestamp: 2023-10-03 21:40:27  cc:                   market_account:                      product_desc:                           cost:            shipping_address: 60 Montgomery Street, #3, Spri cc_billing_address:                                product_purchase_number: 1b8caae0-0980-44b0-a5df-1f0522b45540
+
+UserTx     :  timestamp: 2023-10-04 06:22:10  cc: 4634468244411750  market_account: zestySyrup8          product_desc: tie-blue-kipper-medium    cost:    $314.00 shipping_address: 10175 West 58th Place, #505, A cc_billing_address: 962 South Silverado Drive, #10 product_purchase_number:                                     
+PurchaseTx :  timestamp: 2023-10-04 06:24:06  cc: 0208403799485930  market_account:                      product_desc: tie-blue-kipper-medium    cost:    $354.05 shipping_address:                                cc_billing_address: 6435 West Hillsborough Avenue, product_purchase_number: 1a97f917-da5a-472a-b638-6c7b484de51d
+ShipmentTx :  timestamp: 2023-10-04 18:39:21  cc:                   market_account:                      product_desc:                           cost:            shipping_address: 10175 West 58th Place, #505, A cc_billing_address:                                product_purchase_number: 1a97f917-da5a-472a-b638-6c7b484de51d
+
+UserTx     :  timestamp: 2023-10-07 15:40:25  cc: 0424689308069349  market_account: giddySalt6           product_desc: sock-green-large          cost:    $701.00 shipping_address: 2868 Peak Road, , Wheelock VT, cc_billing_address: 817 25th Street Northwest, , W product_purchase_number:                                     
+PurchaseTx :  timestamp: 2023-10-07 15:41:15  cc: 3289087630558327  market_account:                      product_desc: sock-green-large          cost:    $947.80 shipping_address:                                cc_billing_address: 3115 Cherokee Drive, , Fayette product_purchase_number: 6317c1e6-147c-4834-8b2b-d04ae7612832
+ShipmentTx :  timestamp: 2023-10-07 21:05:20  cc:                   market_account:                      product_desc:                           cost:            shipping_address: 2868 Peak Road, , Wheelock VT, cc_billing_address:                                product_purchase_number: 6317c1e6-147c-4834-8b2b-d04ae7612832
+
+UserTx     :  timestamp: 2023-10-12 06:17:06  cc: 9334676777385669  market_account: murkyFalcon4         product_desc: coat-orange-medium        cost:    $930.00 shipping_address: 23124 North 71st Drive, , Glen cc_billing_address: 309 Brooke Court, , Panama Cit product_purchase_number:                                     
+PurchaseTx :  timestamp: 2023-10-12 06:18:48  cc: 6367282830317086  market_account:                      product_desc: coat-orange-medium        cost:  $1,786.80 shipping_address:                                cc_billing_address: 557 West Willoughby Road, , Fa product_purchase_number: 00bc9d9c-93bd-4c75-8828-4b0f2a4a010f
+ShipmentTx :  timestamp: 2023-10-12 13:49:21  cc:                   market_account:                      product_desc:                           cost:            shipping_address: 23124 North 71st Drive, , Glen cc_billing_address:                                product_purchase_number: 00bc9d9c-93bd-4c75-8828-4b0f2a4a010f
+
+UserTx     :  timestamp: 2023-10-14 16:06:50  cc: 4701014540402207  market_account: offendedHare0        product_desc: pants-green-medium        cost:    $749.00 shipping_address: 70 Valley Road, #2, Louisville cc_billing_address: 104 Bennington Street, , Lawre product_purchase_number:                                     
+PurchaseTx :  timestamp: 2023-10-14 16:07:07  cc: 6901378858956732  market_account:                      product_desc: pants-green-medium        cost:    $765.46 shipping_address:                                cc_billing_address: 83 Oakdale Road, , Newton MA,  product_purchase_number: 761f8ad2-1ed8-4c74-a48c-128a59aad48f
+ShipmentTx :  timestamp: 2023-10-14 18:22:06  cc:                   market_account:                      product_desc:                           cost:            shipping_address: 70 Valley Road, #2, Louisville cc_billing_address:                                product_purchase_number: 761f8ad2-1ed8-4c74-a48c-128a59aad48f
+
+UserTx     :  timestamp: 2023-10-20 15:53:29  cc: 6850537686242968  market_account: dopeySardines5       product_desc: bike-trek-small           cost:    $193.00 shipping_address: 404 Dewey Street, , Woodford V cc_billing_address: 2276 West Woodley Square, , Mo product_purchase_number:                                     
+PurchaseTx :  timestamp: 2023-10-20 15:53:30  cc: 2375279216373968  market_account:                      product_desc: bike-trek-small           cost:    $221.06 shipping_address:                                cc_billing_address: 5921 Ashwood Bluff Drive, , Lo product_purchase_number: be4b022a-b078-430a-a7a5-9772b2d055a2
+ShipmentTx :  timestamp: 2023-10-21 05:24:28  cc:                   market_account:                      product_desc:                           cost:            shipping_address: 404 Dewey Street, , Woodford V cc_billing_address:                                product_purchase_number: be4b022a-b078-430a-a7a5-9772b2d055a2
+
+UserTx     :  timestamp: 2023-10-22 03:35:37  cc: 5592810962561041  market_account: pridefulPoultry9     product_desc: coat-red-xlarge           cost:    $561.00 shipping_address: 10 Erick Road, #47, Mansfield  cc_billing_address: 14358 West 88th Place, C, Arva product_purchase_number:                                     
+PurchaseTx :  timestamp: 2023-10-22 03:36:46  cc: 2345847032174535  market_account:                      product_desc: coat-red-xlarge           cost:    $669.02 shipping_address:                                cc_billing_address: 219 Shana Road, , Glen Burnie  product_purchase_number: 8a0ed1d2-9fae-4afd-bbb5-8b91289ed31e
+ShipmentTx :  timestamp: 2023-10-22 23:58:04  cc:                   market_account:                      product_desc:                           cost:            shipping_address: 10 Erick Road, #47, Mansfield  cc_billing_address:                                product_purchase_number: 8a0ed1d2-9fae-4afd-bbb5-8b91289ed31e
+
